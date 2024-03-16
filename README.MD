@@ -14,14 +14,14 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/express-app.git
-cd express-app
+git clone https://github.com/codingmaniacdev/node-api-with-mysql.git
+cd <app_name>
 
 2. Install dependencies:
     - npm install
     - npm run dev or npx nodemon
 
-The server will be running at http://localhost:3000. You can access it in your browser.
+The server will be running at http://localhost:3500. You can access it in your browser.
 
 ## Routes
 
